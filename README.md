@@ -8,8 +8,8 @@ Created for the course Applied Logic, 2ITX0.
 
 ## Getting started
 
-1. Download the z3-gen.jar file from the latest [release](https://github.com/TPGamesNL/z3-gen/releases)
-2. Add the z3-gen.jar file to your IDE (for VSCode, open a folder in your IDE, go to the File Explorer on the left side and expand Java Project, and click + next to Referenced Libraries and select the jar).
+1. Download the z3-gen.jar file from the latest [release](https://github.com/TPGamesNL/z3-gen/releases).
+2. Add the z3-gen.jar file to your IDE.
    1. For VSCode: open a folder in your IDE
    2. Open the File Explorer tab on the left
    3. Expand 'Java Projects'
