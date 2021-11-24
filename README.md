@@ -16,7 +16,7 @@ Created for the course Applied Logic, 2ITX0.
    4. Expand the project to add it to (there's probably only one)
    5. Click the + next to Referenced Libraries
    6. Select the z3-gen.jar file
-3. Take a look at the [examples](examples), and try one out, modify it, and see how it works.
+3. Take a look at the examples below, and try them out and play around with them to see how this library works.
 
 ## Examples
  
